@@ -1,0 +1,10 @@
+.todo-list-item button {
+  width: 35px;
+  margin: 3px;
+}
+.todo-list-item {
+  padding-left: 20px;
+}
+.todo-list-item:hover {
+  cursor: pointer;
+}

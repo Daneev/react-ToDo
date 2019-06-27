@@ -1,0 +1,19 @@
+.todo-app {
+  padding: 1rem;
+  position: relative;
+  width: 532px;
+}
+
+.top-panel,
+.add-panel {
+  display: flex;
+  width: 500px;
+}
+
+input:hover {
+  cursor: text;
+}
+
+.list-group-item {
+  padding: .25rem;
+}

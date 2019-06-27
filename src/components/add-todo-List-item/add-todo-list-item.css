@@ -1,0 +1,14 @@
+.list-group-item .todo-add {
+  width: 440px;
+  padding-left: 1rem;
+  margin: 0 3px;
+}
+
+.list-group-item button {
+  width: 35px;
+  margin: 0 3px;
+}
+
+.add-panel .list-group-item {
+  padding-right: 7px;
+}
